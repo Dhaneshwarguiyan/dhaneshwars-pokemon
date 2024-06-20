@@ -54,6 +54,12 @@
 .card:hover{
   scale: 1.05;
 }
+.c{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 p{
   text-align: center;
   padding-bottom: 5px;
